@@ -7,6 +7,7 @@ library/*.cc
 library/*.cpp
 *.o
 *.d
+*.out
 */input
 */output
 \#*
