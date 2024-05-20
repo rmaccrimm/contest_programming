@@ -1,0 +1,14 @@
+*/venv/
+*/bin/
+workspace/*
+!workspace/Makefile
+*/compile_commands.json
+library/*.cc
+library/*.cpp
+*.o
+*.d
+*/input
+*/output
+\#*
+.*
+!.gitignore
